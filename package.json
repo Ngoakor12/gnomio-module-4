@@ -1,0 +1,23 @@
+{
+	"name": "gnomio-module-4",
+	"version": "1.0.0",
+	"description": "Gnomio module 4 programming assignment",
+	"main": "index.js",
+	"scripts": {
+		"test": "jasmine"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ngoakor12/gnomio-module-4.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Ngoakor12/gnomio-module-4/issues"
+	},
+	"homepage": "https://github.com/Ngoakor12/gnomio-module-4#readme",
+	"devDependencies": {
+		"jasmine": "^3.6.4"
+	}
+}
